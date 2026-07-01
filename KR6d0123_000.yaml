@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6d0123/x/v1/juan/0
+seq: 0
+front:
+  text: 觀普賢菩薩行法經續疏序天台沙門處咸述茲經者昔吾祖智者禪師嘗約龍樹圓宗大蘇妙契按辨宣通已成章疏大抵明一乘之淵蘊通萬行之旨歸無何有唐季年例遭焚毀負笈之流馳將海外遂不可得而見也末後孤山法師繼而有作但文理太簡學者患之故我神照師又成義疏才至最初境界以逼緣停翰則後義篾聞處咸雖登東掖輪下有年矣而學問無取因痛微言之將墜又惜前功之未圓輒效章安續淨名之解南山繼僧史之作密求冥助斐然續成析為二卷亦勉旃於吾道讀者無以竊名罪我
+  hash: sha256:2aa47902e539e543c9730238d8024611a67dbdd298bcc1393d0c1bb30c3cb736
+  markers:
+  - {type: 序, offset: 0, content: No. 650-A 觀普賢菩薩行法經續疏序, id: KR6d0123_X_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 201, content: 觀普賢菩薩行法經義疏, id: KR6d0123_X_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普賢觀經義疏
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X35/X35n0650.xml
+    old_id: X35n0650
+hash: sha256:4f891644f8822f3531a4b37648e98083565568317e1757bd476a1265860caf53

@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6d0123/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0123/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普賢觀經義疏
+  identifiers:
+    krp: KR6d0123
+    cbeta: X35n0650
+    cbeta_old_id: X35n0650
+    authorityid: CA0002496
+    json_key: X0650
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X35/X35n0650.xml
+    old_id: X35n0650
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0123_000-X.yaml, hash: 'sha256:953d827271d9fdcae524ac025cbe7245639efdf6e4153c092ab52bf3336f7966'}
+  - {seq: 1, filename: KR6d0123_001-X.yaml, hash: 'sha256:1e91166e6361f2c1ab2710f5e1af6bcc3401eec2f65c005daf0ffd0666d3809b'}
+  - {seq: 2, filename: KR6d0123_002-X.yaml, hash: 'sha256:77ce3a5bbda84dcd6731b9f0b79893706c56781d9dcd7fe1962a978b298ba373'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0123_000-X.markers.yaml, hash: 'sha256:49beaf763eb5084aa5e5b4b4cc0f46b3f96b5b60bfb8211188e6fc01a9c74f58'}
+  - {seq: 1, role: markers, filename: assets/KR6d0123_001-X.markers.yaml, hash: 'sha256:c64442112eeef32bcfffff84be131161e3f1b0a1919cc4f5ee3d25aaa6602dc3'}
+  - {seq: 2, role: markers, filename: assets/KR6d0123_002-X.markers.yaml, hash: 'sha256:a79abd3942e4ff157d365b6e03e995f434baad38f366b020eb6c4b2fc0dcf359'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0123_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 650-A 觀普賢菩薩行法經續疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0123_X_000-mulu-2
+    span:
+    - front
+    - 201
+    - 201
+  label: 觀普賢菩薩行法經義疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0123_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13465
+  label: 觀普賢菩薩行法經義疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0123_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15734
+  label: 觀普賢菩薩行法經義疏卷下
+  type: juan
+  level: 1
+hash: sha256:f2f84e2ef6e71a0c77502ae48a07fd41261fc986704ceb2ead1803297131841a
