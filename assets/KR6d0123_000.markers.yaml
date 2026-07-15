@@ -27,9 +27,11 @@ markers:
   - {type: xml-element, offset: 18, content: '', id: pX35p0193a0601, name: p, role: open, attrs: {'xml:id': pX35p0193a0601}}
   - {type: punctuation, offset: 21, content: ，, id: KR6d0123_X_000-bkkpn9}
   - {type: punctuation, offset: 34, content: 、, id: KR6d0123_X_000-bkkpn10}
+  - {type: substitution, offset: 36, original: 玅, replacement: 妙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16610}}
   - {type: punctuation, offset: 38, content: ，, id: KR6d0123_X_000-bkkpn11}
   - {type: line-break, offset: 38, content: '', id: KR6d0123_X_000-0193a07, ed: X, 'n': 0193a07}
   - {type: line-break, offset: 38, content: '', id: KR6d0123_X_000-0322a04, ed: R055, 'n': 0322a04}
+  - {type: substitution, offset: 39, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 42, content: ，, id: KR6d0123_X_000-bkkpn12}
   - {type: variant, offset: 42, length: 1, content: 已, 卍續: 巳}
   - {type: punctuation, offset: 46, content: ，, id: KR6d0123_X_000-bkkpn13}
@@ -51,6 +53,7 @@ markers:
   - {type: punctuation, offset: 100, content: ，, id: KR6d0123_X_000-bkkpn23}
   - {type: punctuation, offset: 104, content: 。, id: KR6d0123_X_000-bkkpn24}
   - {type: punctuation, offset: 113, content: ，, id: KR6d0123_X_000-bkkpn25}
+  - {type: substitution, offset: 113, original: 纔, replacement: 才, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19563}}
   - {type: line-break, offset: 118, content: '', id: KR6d0123_X_000-0193a11, ed: X, 'n': 0193a11}
   - {type: line-break, offset: 118, content: '', id: KR6d0123_X_000-0322a08, ed: R055, 'n': 0322a08}
   - {type: punctuation, offset: 119, content: ，, id: KR6d0123_X_000-bkkpn26}
@@ -90,4 +93,4 @@ markers:
   - {type: line-break, offset: 201, content: '', id: KR6d0123_X_000-0323a01, ed: R055, 'n': 0323a01}
   body: []
   back: []
-hash: sha256:3fcdc8c4f5c61978c7b26317f1506fa6e3727adb421b597fbaa1b5d3b57bd903
+hash: sha256:f247ea68223f279fdf293679ffba8b7239bbfb43807ca1ddcbae23c4b87890b3

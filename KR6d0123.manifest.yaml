@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0123/v1
 canonical_location: https://kanripo.org/bkk/KR6d0123/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 普賢觀經義疏
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0123_000.yaml, hash: 'sha256:953d827271d9fdcae524ac025cbe7245639efdf6e4153c092ab52bf3336f7966'}
-  - {seq: 1, filename: KR6d0123_001.yaml, hash: 'sha256:1e91166e6361f2c1ab2710f5e1af6bcc3401eec2f65c005daf0ffd0666d3809b'}
-  - {seq: 2, filename: KR6d0123_002.yaml, hash: 'sha256:77ce3a5bbda84dcd6731b9f0b79893706c56781d9dcd7fe1962a978b298ba373'}
+  - {seq: 0, filename: KR6d0123_000.yaml, hash: 'sha256:4f891644f8822f3531a4b37648e98083565568317e1757bd476a1265860caf53'}
+  - {seq: 1, filename: KR6d0123_001.yaml, hash: 'sha256:a855fb7005c52c3e0a5f9b12f5e22cb7692fcb27516272ac7ff100b3e8144751'}
+  - {seq: 2, filename: KR6d0123_002.yaml, hash: 'sha256:b501044676cc7949927a7288def687dd1ad4820b7b591dfa100ac1e484db1ff4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0123_000.markers.yaml, hash: 'sha256:3fcdc8c4f5c61978c7b26317f1506fa6e3727adb421b597fbaa1b5d3b57bd903'}
-  - {seq: 1, role: markers, filename: assets/KR6d0123_001.markers.yaml, hash: 'sha256:a3f561873b826af128672a9604e475cfbd64d06edadd0ec1d5586b88214d3a37'}
-  - {seq: 2, role: markers, filename: assets/KR6d0123_002.markers.yaml, hash: 'sha256:ba6e8ba86af2f7a09daa01adf1d5949b91def97645b76f3a81c31437ad487e0b'}
+  - {seq: 0, role: markers, filename: assets/KR6d0123_000.markers.yaml, hash: 'sha256:f247ea68223f279fdf293679ffba8b7239bbfb43807ca1ddcbae23c4b87890b3'}
+  - {seq: 1, role: markers, filename: assets/KR6d0123_001.markers.yaml, hash: 'sha256:094370e1e5e7b0cea60f798dca9ac97459fb49d578df16dd6f6bfb4f7ea694b2'}
+  - {seq: 2, role: markers, filename: assets/KR6d0123_002.markers.yaml, hash: 'sha256:d720d2b9d14d79a1ce81db9ee27ad3b6eb980477b994906ea8a8c07491122db5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -69,4 +69,7 @@ table_of_contents:
   label: 觀普賢菩薩行法經義疏卷下
   type: juan
   level: 1
-hash: sha256:f6a8db0da917d52ec689f9e819e574b0dc7589c272fad42e6624cb90528ac8d1
+hash: sha256:d9fd689ecb36d2fc4f0d917b01a0bcb1bbd242bfe06c4682d9b2374974e79718
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
