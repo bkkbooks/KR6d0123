@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0123_000.yaml, hash: 'sha256:4f891644f8822f3531a4b37648e98083565568317e1757bd476a1265860caf53'}
+  - {seq: 0, filename: KR6d0123_000.yaml, hash: 'sha256:a62915d6f498a2e536f3c1a9c82d3344c7a7a3089c5d6a2dae0bd0836d1f4382'}
   - {seq: 1, filename: KR6d0123_001.yaml, hash: 'sha256:a855fb7005c52c3e0a5f9b12f5e22cb7692fcb27516272ac7ff100b3e8144751'}
   - {seq: 2, filename: KR6d0123_002.yaml, hash: 'sha256:b501044676cc7949927a7288def687dd1ad4820b7b591dfa100ac1e484db1ff4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0123_000.markers.yaml, hash: 'sha256:f247ea68223f279fdf293679ffba8b7239bbfb43807ca1ddcbae23c4b87890b3'}
+  - {seq: 0, role: markers, filename: assets/KR6d0123_000.markers.yaml, hash: 'sha256:63c35952ee624ec3b91280614bc4d1c9e1dde5e72d12fbeecf775c3956e0e97b'}
   - {seq: 1, role: markers, filename: assets/KR6d0123_001.markers.yaml, hash: 'sha256:094370e1e5e7b0cea60f798dca9ac97459fb49d578df16dd6f6bfb4f7ea694b2'}
   - {seq: 2, role: markers, filename: assets/KR6d0123_002.markers.yaml, hash: 'sha256:d720d2b9d14d79a1ce81db9ee27ad3b6eb980477b994906ea8a8c07491122db5'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0123_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 650-A 觀普賢菩薩行法經續疏序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0123_X_000-mulu-2
     span:
-    - front
+    - body
     - 201
     - 201
   label: 觀普賢菩薩行法經義疏
@@ -69,7 +69,7 @@ table_of_contents:
   label: 觀普賢菩薩行法經義疏卷下
   type: juan
   level: 1
-hash: sha256:d9fd689ecb36d2fc4f0d917b01a0bcb1bbd242bfe06c4682d9b2374974e79718
+hash: sha256:e9c875d6fe928044365cba6f1eb455e536993cf841403acd234737448513bacc
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
